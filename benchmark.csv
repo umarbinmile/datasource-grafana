@@ -1,0 +1,2 @@
+Test,Ops,Time(ns),Mem(B),Allocs
+BenchmarkAddAdmin-8,7933,6487892,5457198,73354
